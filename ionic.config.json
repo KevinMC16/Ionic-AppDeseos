@@ -1,7 +1,7 @@
 {
-  "name": "deseos",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
+    "name": "deseos",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "angular"
 }
